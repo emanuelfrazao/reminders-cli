@@ -9,6 +9,7 @@ version: ideation
 - [UI](#ui)
   - [subcommands](#subcommands)
   - [usage](#usage)
+- [functional requirements](#functional-requirements)
 
 # UI
 
@@ -37,4 +38,7 @@ The subcommands arguments are:
 When the user asks to delete a note, it is prompted for confirmation, unless the flag `-f` is used.
 
 Notes should be printed to stdout with their tag (and subtags) and corresponding id.
+
+# functional requirements
+Notes are saved on user's `$HOME` to a file named `.reminder_notes`
 
