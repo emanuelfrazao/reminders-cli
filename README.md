@@ -22,7 +22,7 @@ It has subcommands:
 
 ## usage
 Subcommands usage:
-* `rem ember [-<tag>[.<sub-tag>...]] <note>` | `rem ember [-<tag>[.<sub-tag>...]] -m`:
+* `rem ember [-<tag>[.<sub-tag>...]] (<note> | -m)`:
   * `-<tag>[.<sub-tag>...]`     ,   for specifying on which tag to save `<note>`. if not specified, save under "general"
   * `-m`                        ,   for writing a multi-line note
 * `rem ind ([-<tag>[.<sub-tag>...] [<id>]]|--all)`
