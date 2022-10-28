@@ -1,7 +1,7 @@
 ---
-title: reminders-cli
-subtitle: a simple bash cli (following REST) for saving notes with hierarchical tags, seeing and deleting them
-tst: oi
+project: reminders-cli
+description: a simple bash cli (following REST) for saving notes with hierarchical tags, seeing and deleting them
+version: ideation
 ---
 
 
